@@ -2,6 +2,12 @@
 
 <img src="https://github.com/IDiegoUlises/Pic-Entradas-Digitales/blob/main/Images/16f887-Pic.png"  />
 
+* Todos los puertos que funcionan como salida funcionan como entradas digitales
+* Vdd: Positivo del microcontrolador
+* Vss: Negativo del microcontrolador
+* Clkin: Osicilador conectado a negativo
+* Clkout: Osicilador conectado a negativo
+
 ```c
 #include <16f887.h> //Nombre del microcontrolador
 #fuses xt,nowdt  //para osciladores de 4 MegaHertz se usa xt para mayores usa hs
@@ -23,4 +29,3 @@ void main()
    }
 }
 ```
-* Todos los puertos que funcionan como salida funcionan como entradas digitales
