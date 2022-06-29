@@ -46,3 +46,6 @@ void main()
 
 ### Conexion
 <img src="https://github.com/IDiegoUlises/Pic-Entradas-Digitales/blob/main/Images/Imagen-fritzing.png" />
+
+### Funcionamiento
+![](https://github.com/IDiegoUlises/Pic-Entradas-Digitales/blob/main/Images/GIF-220628_221725.gif)
