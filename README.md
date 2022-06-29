@@ -9,13 +9,13 @@ void main()
 {
    while(true)
    {
-      if(input(pin_a0) == 1)
+      if(input(pin_a0) == 1) //Cuando esta en HIGH
       {
-         output_high(pin_c0); 
+         output_high(pin_c0); //Enciende el led
       }
       else
       {
-         output_low(pin_c0);
+         output_low(pin_c0); //Apaga el led
       }
       
    }
