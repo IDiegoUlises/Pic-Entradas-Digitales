@@ -1,4 +1,6 @@
-# Pic-Entradas-Digitales
+# Pic 16F887 Entradas Digitales
+
+<img src="https://github.com/IDiegoUlises/Pic-Entradas-Digitales/blob/main/Images/16f887-Pic.png"  />
 
 ```c
 #include <16f887.h> //Nombre del microcontrolador
