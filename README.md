@@ -19,7 +19,7 @@ void main()
 {
    while(true)
    {
-      if(input(pin_a0) == 1) //Cuando esta en HIGH
+      if(input(pin_a0) == 1) //Hace una lectura
       {
          output_high(pin_c0); //Enciende el led
       }
