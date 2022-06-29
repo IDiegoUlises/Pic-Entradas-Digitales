@@ -21,3 +21,4 @@ void main()
    }
 }
 ```
+* Todos los puertos que funcionan como salida funcionan como entradas digitales
