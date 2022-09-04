@@ -45,7 +45,7 @@ void main()
 <img src="https://github.com/IDiegoUlises/Pic-Entradas-Digitales/blob/main/Images/Write-pickit.png"  />
 
 ### Conexion
-<img src="https://github.com/IDiegoUlises/Pic-Entradas-Digitales/blob/main/Images/Imagen-fritzing.png" />
+<img src="https://github.com/IDiegoUlises/Pic-Entradas-Digitales/blob/main/Images/Circuito-En-Fritizing-Nuevo.png" />
 
 ### Funcionamiento
 ![](https://github.com/IDiegoUlises/Pic-Entradas-Digitales/blob/main/Images/GIF-220628_221725.gif)
